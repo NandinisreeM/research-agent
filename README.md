@@ -18,7 +18,7 @@ Setup Instructions
 
 1.Clone the repository
 
-git clone https://github.com/NandinisreeM/research-agent-ai.git
+git clone https://github.com/NandinisreeM/research-agent.git
 cd research-agent
 
 2.Setup Backend
@@ -34,3 +34,4 @@ Bash
 cd frontend
 npm install
 npm start
+
